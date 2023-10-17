@@ -1,2 +1,3 @@
 ## Data Analysis - Excel Task 1
-Welcome to the Beginner's Excel Data Analysis Playground! This repository serves as a storage space for my journey as a beginner in data analysis, specifically focusing on Excel. Here, you'll find various projects and exercises that I've completed as part of my learning process. 
+During my Data Analysis in Excel training, I was given a task to create a table with 20 rows of information. The table consisted of specific fields, including Employee ID, Employee Full Name, Department (Communications, Sales, I.T), Salary (ranging from $5000 to $25000), and Job type (Part-time, Freelance, Contract). This exercise aimed to enhance my skills in various Excel functions, such as:
+
